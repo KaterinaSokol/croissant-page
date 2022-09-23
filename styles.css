@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(178, 143, 77);
+}
+footer{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    text-align: center;
+    margin: 40px 0;
+}
+img{
+    display: block;
+    margin: 40px auto;
+
+}
